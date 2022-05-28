@@ -257,7 +257,7 @@ if (USER_AGENT.match(/MSIE 8./) || USER_AGENT.match(/MSIE 7./) || USER_AGENT.mat
                 } else if (GLOBAL.DEVICE_TYPE === 2) {
                     ax.style.display = 'none';
                     ag.style.display = 'block';
-                    ah.href = 'http://p03b3xtpm.bkt.clouddn.com/com.guangsuyingyin.apk';
+                    ah.href = 'https://s1.asytech.cn/s/cSEGz3NKLYJY9QR/download';
                 }
                 if (GLOBAL.DEVICE_TYPE) {
                     M.style.backgroundImage = 'url("images/mobile_function4_table_background_4x.png")';
