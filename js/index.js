@@ -253,7 +253,7 @@ if (USER_AGENT.match(/MSIE 8./) || USER_AGENT.match(/MSIE 7./) || USER_AGENT.mat
                 } else if (GLOBAL.DEVICE_TYPE === 1) {
                     ax.style.display = 'none';
                     ai.style.display = 'block';
-                    ah.href = '#';
+                    ah.href = 'https://mp.weixin.qq.com/s/-Rg-lwRhpuAxPwDEN25IQQ';
                 } else if (GLOBAL.DEVICE_TYPE === 2) {
                     ax.style.display = 'none';
                     ag.style.display = 'block';
