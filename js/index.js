@@ -257,7 +257,7 @@ if (USER_AGENT.match(/MSIE 8./) || USER_AGENT.match(/MSIE 7./) || USER_AGENT.mat
                 } else if (GLOBAL.DEVICE_TYPE === 2) {
                     ax.style.display = 'none';
                     ag.style.display = 'block';
-                    ah.href = 'https://gitee.com/dssljt/hgsdist/attach_files/1135587/download/huaguoshan1.0.3.apk';
+                    ah.href = 'https://wwu.lanzoum.com/b03d0ts0j';
                 }
                 if (GLOBAL.DEVICE_TYPE) {
                     M.style.backgroundImage = 'url("images/mobile_function4_table_background_4x.png")';
